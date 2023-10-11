@@ -33,7 +33,6 @@ an RGB color specification (e.g. `#000000` color code).
 -   [ ] User can specify the color encoding format used from RGB to another format like HSL
 
 ## Useful links and resources
-
 [CSS Color Codes](https://qhmit.com/css/css_color_codes.cfm)
 
 ## Example projects
